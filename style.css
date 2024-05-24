@@ -47,3 +47,17 @@
   padding: 24px 0;
   font-size: 35px;
   }
+
+  .titulo-rodape{
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+  }
+
+  .estudante-image{
+   width: 150px; 
+  }
+
+  .estudante-icone{
+   width: 30px; 
+  }
